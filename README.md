@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://assets.team-consulting.com/wp-content/uploads/2022/01/07155136/animation-of-data-points-floating-on-a-dark-background.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dr Vikas Pratap Singh</h1>
 <h3 align="center">12+ Years of Seasoned & A passionate Senior Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
