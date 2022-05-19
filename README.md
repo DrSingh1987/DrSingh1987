@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"   width="1200" src="https://www.american.edu/spa/data-science/images/Data-Science-Institute_banner.jpg" />
+<img align="center" alt="Coding"   width="1000" src="https://www.american.edu/spa/data-science/images/Data-Science-Institute_banner.jpg" />
 
 <h1 align="center">Hi 👋, I'm Dr Vikas Pratap Singh</h1>
 <h3 align="center">12+ Years of Seasoned & A passionate Senior Data Scientist from India</h3>
