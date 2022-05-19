@@ -1,8 +1,8 @@
-<img align="center" alt="Coding"   width="1000" src="https://www.american.edu/spa/data-science/images/Data-Science-Institute_banner.jpg" />
+<img align="center" alt="Coding"   width="800" src="https://www.american.edu/spa/data-science/images/Data-Science-Institute_banner.jpg" />
 
 <h1 align="center">Hi 👋, I'm Dr Vikas Pratap Singh</h1>
 <h3 align="center">12+ Years of Seasoned & A passionate Senior Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<img align="right" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drsingh1987&label=Profile%20views&color=0e75b6&style=flat" alt="drsingh1987" /> </p>
 
